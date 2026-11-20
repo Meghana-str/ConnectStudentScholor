@@ -1,0 +1,6 @@
+{
+  "name": "ScholarConnect",
+  "description": "A platform connecting underprivileged students with scholarships through transparent eligibility checks and application tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
